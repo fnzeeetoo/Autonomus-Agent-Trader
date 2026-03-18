@@ -1,0 +1,1 @@
+# Contrarian strategy package

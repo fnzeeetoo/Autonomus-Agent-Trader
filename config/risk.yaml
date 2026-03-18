@@ -1,0 +1,6 @@
+position_sizing_fixed: 20.0
+position_sizing_pct: 0.02
+circuit_breaker_losses: 3
+daily_loss_limit: -100.0
+adx_threshold: 25.0
+bollinger_volatility_cap: 2.0

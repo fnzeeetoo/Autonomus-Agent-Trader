@@ -1,0 +1,21 @@
+contrarian:
+  enabled: true
+  rsi_period: 14
+  rsi_overbought: 70
+  rsi_oversold: 30
+  panic_volume_multiplier: 2.0
+
+tbo_trend:
+  enabled: true
+  fast_period: 10
+  slow_period: 30
+
+tbt_divergence:
+  enabled: true
+  indicator_period: 14
+  divergence_threshold: 0.05
+
+late_entry:
+  enabled: true
+  entry_minutes_before_close: 15
+  stability_window: 5

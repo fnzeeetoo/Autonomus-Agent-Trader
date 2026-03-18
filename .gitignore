@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/
+*.db
+*.log
+.idea
+.vscode
+.DS_Store
+.next
+out
+coverage.xml
